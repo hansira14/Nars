@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "855680008675",
+    "project_id": "nars-02bnoj",
+    "storage_bucket": "nars-02bnoj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855680008675:android:2e0cb04eba35958dc6e0d6",
+        "android_client_info": {
+          "package_name": "com.mycompany.nars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855680008675-vfm52d8eb673li9b2lscokr4on89iatn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FSqyr9vXugKa_QRQMnSDnH96FpWILd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855680008675-vfm52d8eb673li9b2lscokr4on89iatn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855680008675-oa1fo9u7ptbiacq1v61fucrh7al8iqst.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.nars"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
